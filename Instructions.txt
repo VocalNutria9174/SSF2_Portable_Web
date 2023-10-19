@@ -1,0 +1,13 @@
+Windows Users:
+
+Simply run SSF2.exe and have fun!
+
+------------------------------------
+
+Mac OS X / Linux / Other Operating Systems:
+
+The easiest way to play is to grab one of the dedicated builds for your system from our downloads page:
+
+https://www.supersmashflash.com/play/ssf2/downloads/
+
+The only other way to launch the game is if you have a Flash-enabled web-browser, but it is more difficult since Flash Player plugin support has been removed from most newer browsers. We've provided index.htm for this very purpose, which attempts to load the included SSF2Portable.swf. Generally it is much harder to get the game working this way since it may require installing additional software and setting SSF2's data folder as a "Trusted Location" in the Flash Player's global settings. Feel free to experiment and let us know if you come up with another way to launch the SWF version of the game on non-Windows operating systems!
