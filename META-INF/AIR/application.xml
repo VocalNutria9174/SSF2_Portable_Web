@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<application xmlns="http://ns.adobe.com/air/application/29.0">
+  <id>com.mcleodgaming.ssf2</id>
+  <versionNumber>001.310.002</versionNumber>
+  <filename>SSF2</filename>
+  <copyright>2022</copyright>
+  <initialWindow>
+    <title>Super Smash Flash 2 Beta</title>
+    <content>SSF2.swf</content>
+    <systemChrome>standard</systemChrome>
+    <transparent>false</transparent>
+    <visible>true</visible>
+    <minimizable>true</minimizable>
+    <maximizable>true</maximizable>
+    <resizable>false</resizable>
+  </initialWindow>
+  <!-- 
+	More options:
+	http://livedocs.adobe.com/flex/3/html/File_formats_1.html#1043413
+	-->
+  <name>Super Smash Flash 2 Beta</name>
+  <architecture>64</architecture>
+  <android>
+    <manifestAdditions><![CDATA[<manifest android:installLocation="auto" xmlns:android="http://schemas.android.com/apk/res/android" />]]></manifestAdditions>
+  </android>
+  <supportedLanguages>en</supportedLanguages>
+  <icon>
+    <image512x512>icons/SSF2512.png</image512x512>
+    <image128x128>icons/SSF2128.png</image128x128>
+  </icon>
+  <supportedProfiles>extendedDesktop</supportedProfiles>
+  <versionLabel>1.3.1.2</versionLabel>
+  <description>Duke it out as your favorite Nintendo characters in this fan-made tribute to the Super Smash Bros. franchise.</description>
+  <extensions>
+    <extensionID>com.iam2bam.ane.nativejoystick</extensionID>
+  </extensions>
+</application>
